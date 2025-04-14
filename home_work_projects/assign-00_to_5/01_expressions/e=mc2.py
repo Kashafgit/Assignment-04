@@ -13,7 +13,7 @@ while True:
         print(f"C = {C}")
         print(f"Energy: {energy}")
     except ValueError:
-        print("Invalid input. Please enter vlid numbers. ")
+        print("Invalid input. Please enter valid numbers. ")
             
         
         
